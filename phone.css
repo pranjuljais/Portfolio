@@ -1,0 +1,25 @@
+/* nav bar */
+.navbar{
+    display: flex;
+    flex-direction: column;
+
+}
+.navbar #logo img{
+    /* align-items: center;
+    justify-content: center;
+} */
+
+/* home */
+
+#home{
+
+}
+
+
+
+
+/* project */
+#pro .containerl{
+    display: flex;
+flex-direction: column;
+}
